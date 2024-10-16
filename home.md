@@ -2,7 +2,7 @@
 title: openwrt路由器的一些配置
 description: 111111
 published: true
-date: 2024-10-16T03:47:44.243Z
+date: 2024-10-16T15:22:03.117Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-13T04:24:50.897Z
