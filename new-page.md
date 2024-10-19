@@ -2,18 +2,12 @@
 title: C语言
 description: 
 published: true
-date: 2024-10-19T02:52:31.327Z
+date: 2024-10-19T03:05:12.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-17T06:11:40.058Z
 ---
 
-# 1223
-Your content here
-sfjh ls j
-# ksfh slfls
-dkjkh kl 
-klsjfl 
 # 函数定义
 
 函数的结构
