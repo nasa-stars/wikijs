@@ -2,17 +2,43 @@
 title: C语言
 description: 
 published: true
-date: 2024-10-19T02:38:23.820Z
+date: 2024-10-19T02:52:31.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-17T06:11:40.058Z
 ---
 
 # 1223
-## 111
 Your content here
 sfjh ls j
 # ksfh slfls
 dkjkh kl 
 klsjfl 
- 
+# 函数定义
+
+函数的结构
+返回值类型 函数名称（参数）
+{
+       函数体；
+       return（）；
+}
+咱们自定义的函数需要按照上面的形式来写
+可以把函数想象成一个容器，数据想要进入这个容器必须通过参数这个入口进入，想要出去必须通过return语句出去。或者就是使用指针使用引用的方式出去
+咱们在C语言中使用的函数都是有返回值的
+> #include<stdio.h>
+int main()
+{
+         int a=2;
+         int b=3;
+         printf("%d",printf("%d",printf("%d",printf("%d%d",a,b))));
+}
+
+Printf库函数的返回值就是它成功打印元素的个数，咱们从右往左去分析一下
+最右边那个printf函数打印了a,b所以输出了ab的值，printf的返回值是成功打印的元素的个数所以这个时候从右往左数第二个printf函数打印的是2，依次类推运行结果为2311。 
+值传参和址传参
+值传参就是传过去一个值
+址传参传过去的是一个地址
+传过去地址就是需要用指针，传值就是需要用一个普通参数
+
+
+
