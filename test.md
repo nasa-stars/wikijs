@@ -2,7 +2,7 @@
 title: test
 description: 
 published: true
-date: 2024-10-19T13:29:57.856Z
+date: 2024-10-19T13:37:04.899Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T03:14:05.882Z
@@ -18,3 +18,4 @@ https://wiki.zhoumx.net/project-3/doc-65/
 
 双向同步 
 极客教程 https://geek-docs.com/
+分析不同的内容表示方式
