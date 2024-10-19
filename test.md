@@ -2,7 +2,7 @@
 title: test
 description: 
 published: true
-date: 2024-10-16T15:14:16.496Z
+date: 2024-10-19T06:27:07.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T03:14:05.882Z
@@ -18,3 +18,4 @@ https://wiki.zhoumx.net/project-3/doc-65/
 /nonexistent/.ssh 说明当前用户的主目录可能设置不正确。你可以通过以下命令检查当前用户的主目录：
 
 双向同步 
+极客教程 https://geek-docs.com/
