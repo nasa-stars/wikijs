@@ -1,8 +1,8 @@
 ---
-title: services
+title: QZ Tray 第一代
 description: 打印机服务
 published: true
-date: 2024-11-03T13:28:50.903Z
+date: 2024-11-03T13:29:51.093Z
 tags: 打印机
 editor: markdown
 dateCreated: 2024-10-19T11:53:32.239Z
