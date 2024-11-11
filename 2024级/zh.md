@@ -2,14 +2,14 @@
 title: zh
 description: 
 published: true
-date: 2024-11-11T05:23:02.186Z
+date: 2024-11-11T05:27:26.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-01T09:51:44.611Z
 ---
 
 # 第一周（2024-11-7）
-
+[第一周（2024-11-7）.pdf](/2024级开会总结/第一周（2024-11-7）.pdf)
 ## 入门
 **Crash Course Computer Science
 哈佛大学CS50《计算机导论》**
