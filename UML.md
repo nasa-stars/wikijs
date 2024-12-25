@@ -2,7 +2,7 @@
 title: UML
 description: 
 published: true
-date: 2024-12-25T13:16:46.276Z
+date: 2024-12-25T13:18:57.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T12:42:09.605Z
